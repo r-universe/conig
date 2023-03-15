@@ -1,5 +1,9 @@
 [
   {
+    "package": "Conigrave",
+    "oncran": true
+  },
+  {
     "package": "corx",
     "oncran": true
   }

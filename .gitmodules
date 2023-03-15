@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Conigrave"]
+	path = Conigrave
+	url = https://github.com/conig/conigrave
+	shallow = true
+	registered = true
 [submodule "corx"]
 	path = corx
 	url = https://github.com/conig/corx
