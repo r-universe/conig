@@ -8,3 +8,6 @@
 [submodule "corx"]
 	path = corx
 	url = https://github.com/conig/corx
+[submodule "revise"]
+	path = revise
+	url = https://github.com/conig/revise
